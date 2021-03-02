@@ -1,5 +1,6 @@
-#Based on 
+#Based on:
 #https://github.com/danieliu/play-scraper/blob/89be7091fe02b4402c0ae8a72a94e360364080ac/play_scraper/utils.py#L236
+
 from ghettobird import fly
 
 bird = {
